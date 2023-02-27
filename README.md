@@ -1,6 +1,6 @@
 # QHack 2023 QuEra Challenge
 
-This repository and README contain some resources that individuals participating in the [Hybrid Quantum-Classical Computing Challenge](https://github.com/XanaduAI/QHack2023#hybrid-quantum-classical-computing-challenge) in [QHack 2023](https://qhack.ai/).
+This repository and README contain some resources that individuals participating in the [Hybrid Quantum-Classical Computing Challenge](https://github.com/XanaduAI/QHack2023#hybrid-quantum-classical-computing-challenge) in [QHack 2023](https://qhack.ai/) may find helpful.
 
 ## Pointers
  
