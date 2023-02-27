@@ -24,6 +24,7 @@ Before diving into the resources below it's helpful to keep the following in min
 
 * The [Bloqade Documentation](https://queracomputing.github.io/Bloqade.jl/dev/) not only serves as a reference manual but also comes with a number of tutorials ranging from the basics ([the Rydberg Blockade](https://queracomputing.github.io/Bloqade.jl/dev/tutorials/1.blockade/main/])) to more advanced applications such as [the Maximum Independent Set Problem](https://queracomputing.github.io/Bloqade.jl/dev/tutorials/1.blockade/main/)
 * The `state-preparation.md` file contains some helpful background, approaches, and literature on Quantum State Preparation
+* The `Intro to QC with Neutral Atoms.pdf` file is a copy of the slides Pedro Lopes used for his QHack talk
 * [Quantum optimization of maximum independent set using Rydberg atom arrays (S. Ebadi et al.)](https://www.science.org/doi/10.1126/science.abo6587)
 * [Realizing quantum spin liquid phase on an analog Hamiltonian Rydberg simulator - AWS Quantum Technologies Blog](https://aws.amazon.com/blogs/quantum-computing/realizing-quantum-spin-liquid-phase-on-an-analog-hamiltonian-rydberg-simulator/)
   * A nice higher-level read that focuses on [this paper by G. Semeghini et al.](https://www.science.org/doi/10.1126/science.abi8794)
